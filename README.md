@@ -3,26 +3,17 @@
 ```typescript
 const profile = {
   name: "Harish Reddy",
-  bio: "👋 Hi, I’m Harish Reddy, a B.Tech CSE ’27 student passionate about web development and problem-solving.
-💻 Currently learning DSA and building projects to sharpen my development skills.
-🚀 Always exploring new tech and working towards becoming a skilled software developer.",
-  currentWork: "I am currently working on my Basics of web development. 
-I am also Working on a Machine learning research paper based on pediatrics healthcare.",
-  interests: "💡 Interests
-🌐 Full-Stack Web Development
-📊 Data Structures & Algorithms
-🤖 AI/ML Research & Projects
-📚 Continuous Learning & Skill Growth
-🎯 Problem-Solving Challenges",
-  skills: [
-    "HTML5",
-    "CSS3",
-    "C",
-    "C++",
-    "Python"
+  bio: "👋 Hi, I’m Harish Reddy, a B.Tech CSE ’27 student passionate about web development and problem-solving.\n💻 Currently learning DSA and building projects to sharpen my development skills.\n🚀 Always exploring new tech and working towards becoming a skilled software developer.",
+  currentWork: "I am currently working on my Basics of web development.\nI am also working on a Machine learning research paper based on pediatrics healthcare.",
+  interests: [
+    "🌐 Full-Stack Web Development",
+    "📊 Data Structures & Algorithms",
+    "🤖 AI/ML Research & Projects",
+    "📚 Continuous Learning & Skill Growth",
+    "🎯 Problem-Solving Challenges"
   ],
+  skills: ["HTML5", "CSS3", "C", "C++", "Python"]
 }
-```
 
 ## 🔭 I'm currently working on
 
