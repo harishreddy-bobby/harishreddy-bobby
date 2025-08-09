@@ -38,7 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/harishreddy_bobby/" target="_blank">
-    <img src="https://upload.wikimedia.org/2019/LeetCode_logo_white_no_text.svg" height="50" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode" />
   </a>
   <a href="mailto:mharishreddy995@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="50" alt="Email" />
