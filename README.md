@@ -4,42 +4,46 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishreddy995/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/harishreddy_bobby/)  
-[![TakeUForward](https://img.shields.io/badge/TakeUForward-%23000000.svg?logo=readme&logoColor=white)](https://takeuforward.org/plus/profile/harishreddy_bobby)
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub logo" />
+</p>
 
 ---
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishreddy-bobby&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishreddy-bobby&theme=radical&hide_border=false" height="180" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harishreddy-bobby&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=harishreddy-bobby&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishreddy-bobby&theme=radical&hide_border=false&layout=compact)
+## 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishreddy-bobby&theme=radical&hide_border=false&layout=compact" height="180" />
+</p>
 
 ---
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 📫 How to reach me:
-- **Email**: mharishreddy995@gmail.com  
-- **LinkedIn**: [linkedin.com/in/harishreddy995](https://www.linkedin.com/in/harishreddy995/)  
-- **LeetCode**: [leetcode.com/u/harishreddy_bobby/](https://leetcode.com/u/harishreddy_bobby/)  
-- **TakeUForward**: [Profile Link](https://takeuforward.org/plus/profile/harishreddy_bobby)
-
----
-
-> 🚀 _"Code, Learn, Repeat — every day is an opportunity to grow as a developer."_
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/harishreddy995/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/harishreddy_bobby/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode" />
+  </a>
+  <a href="https://takeuforward.org/plus/profile/harishreddy_bobby">
+    <img src="https://img.shields.io/badge/TakeUForward-%23000000.svg?logo=readme&logoColor=white" height="40" alt="TakeUForward" />
+  </a>
+  <a href="mailto:mharishreddy995@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="45" alt="Email" />
+  </a>
+</p>
