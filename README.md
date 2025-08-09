@@ -14,63 +14,60 @@ const profile = {
   ],
   skills: ["HTML5", "CSS3", "C", "C++", "Python"]
 }
+🔭 I'm currently working on
+Basics of web development
 
-## 🔭 I'm currently working on
+Machine learning research paper based on pediatrics healthcare
 
-I am currently working on my Basics of web development. 
-I am also Working on a Machine learning research paper based on pediatrics healthcare.
-
-## 👀 I'm interested in
-
-💡 Interests
+👀 I'm interested in
 🌐 Full-Stack Web Development
+
 📊 Data Structures & Algorithms
+
 🤖 AI/ML Research & Projects
+
 📚 Continuous Learning & Skill Growth
+
 🎯 Problem-Solving Challenges
 
-## 💻 Tech Stack
-
-```json
+💻 Tech Stack
+json
+Copy
+Edit
 {
-  "frontend": [
-    "HTML5",
-    "CSS3"
-  ],
-  "languages": [
-    "C",
-    "C++",
-    "Python"
-  ]
+  "frontend": ["HTML5", "CSS3"],
+  "languages": ["C", "C++", "Python"]
 }
-```
-
-## 🌐 Socials
-
-```javascript
+🌐 Socials
+javascript
+Copy
+Edit
 const socials = {
   github: "harishreddy-bobby",
   linkedin: "https://www.linkedin.com/in/harishreddy995/",
-  leetcode: "https://leetcode.com/u/harishreddy_bobby/",
+  leetcode: "https://leetcode.com/u/harishreddy_bobby/"
 }
-```
-
-<div>
-<a href="https://github.com/harishreddy-bobby"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/harishreddy995/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/harishreddy_bobby/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
-</div>
-
-## 📫 How to reach me
-
-```javascript
+<div> <a href="https://github.com/harishreddy-bobby"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/harishreddy995/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/harishreddy_bobby/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> </div>
+📫 How to reach me
+javascript
+Copy
+Edit
 const contact = {
   email: "mharishreddy995@gmail.com",
-  phone: "+91 88860 83699",
+  phone: "+91 88860 83699"
 }
-```
-
-```typescript
+typescript
+Copy
+Edit
 // Thanks for visiting my profile!
 console.log("Let's connect and collaborate on exciting projects!");
-
 process.exit(0); // Until next time 👋
-```
+yaml
+Copy
+Edit
+
+---
+
+Once you paste and save this, your GitHub profile will display it nicely.  
+
+Do you want me to also **add a GitHub stats card and streak tracker** so your profile looks more professional
