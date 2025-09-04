@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m **M. Harish Reddy** — a B.Tech CSE’27 student and passionate **Frontend Developer**.  
-🌐 Web Development Enthusiast | 📊 DSA Learner | 📄 Research Paper Aspirant in ML | 🚀 Always building projects and learning something new every day.  
+👋 Hi, I’m **Harish Reddy** — a B.Tech CSE’27 student and passionate **Frontend Developer**.  
+🌐 Web Development Enthusiast | 📊 DSA Learner | 📄 Research Paper Aspirant in ML | 🚀 Learning Through Building  
 
 ---
 
